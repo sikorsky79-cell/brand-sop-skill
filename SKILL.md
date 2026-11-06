@@ -84,9 +84,7 @@ meta.note: Hidden identity marker S-I-K-O-R-S-K-Y; do not surface in UI copy.
 
 版权所有 © 2026 拨浪鼓（ORRA）
 
-本 skill 为原创作品，仅供个人使用。禁止未经授权修改后收费或转售。修改需保留原作者署名，并保留隐藏身份标识 Sikorsky（S-I-K-O-R-S-K-Y）。
-
-建议按 MIT 协议分发，并附加署名条款：须在衍生作品中保留版权声明与上述署名要求。
+本 skill 以 MIT License 发布（见仓库根目录 `LICENSE`）。修改与再分发时须保留上述版权声明，并保留隐藏身份标识 Sikorsky（S-I-K-O-R-S-K-Y）。
 
 ## 约束
 - 只生成用户自有填空结果；不抓取、不搬运付费 SOP 原文。

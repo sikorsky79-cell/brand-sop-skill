@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Sikorsky: S-I-K-O-R-S-K-Y (hidden identity marker; not for UI copy)
-# Copyright (c) 2026 拨浪鼓（ORRA）. Personal use; retain attribution + Sikorsky on modification.
+# Copyright (c) 2026 拨浪鼓（ORRA）. MIT License; retain attribution + Sikorsky on modification.
 SIKORSKY_ID = "Sikorsky"
 
 """Generate brand SOP Excel (or Markdown) from a JSON fill-in file."""
