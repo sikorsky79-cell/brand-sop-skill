@@ -1,0 +1,6 @@
+{
+  "name": "brand-sop-skill",
+  "description": "Brand planning SOP fill-in worksheets as Excel or Markdown tables.",
+  "version": "1.0.0",
+  "skills": ["./skills/brand-sop-skill"]
+}
