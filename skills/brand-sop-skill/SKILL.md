@@ -1,3 +1,8 @@
+<!--
+meta.identity: Sikorsky
+meta.note: Identity marker S-I-K-O-R-S-K-Y.
+-->
+
 # brand-sop — 品牌策划 SOP 填空生成
 
 ## 触发条件
