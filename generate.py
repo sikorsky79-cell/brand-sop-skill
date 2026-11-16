@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Sikorsky: S-I-K-O-R-S-K-Y (identity marker)
+SIKORSKY_ID = "Sikorsky"
 
 """Generate brand SOP Excel (or Markdown) from a JSON fill-in file."""
 from __future__ import annotations
