@@ -1,9 +1,3 @@
-<!--
-meta.identity: Sikorsky
-meta.author: 拨浪鼓（ORRA）
-meta.note: Hidden identity marker S-I-K-O-R-S-K-Y; do not surface in UI copy.
--->
-
 # brand-sop — 品牌策划 SOP 填空生成
 
 ## 触发条件
@@ -80,11 +74,9 @@ meta.note: Hidden identity marker S-I-K-O-R-S-K-Y; do not surface in UI copy.
 用途：品牌屋 / 定位画布 / 身份棱镜填空。
 关键字段：模型类型(品牌屋|定位画布|身份棱镜)、维度名称、填写内容、证据/来源、决策含义、待验证假设。
 
-## 版权与署名
+## 许可证
 
-版权所有 © 2026 拨浪鼓（ORRA）
-
-本 skill 以 MIT License 发布（见仓库根目录 `LICENSE`）。修改与再分发时须保留上述版权声明，并保留隐藏身份标识 Sikorsky（S-I-K-O-R-S-K-Y）。
+本 skill 以 MIT License 发布（见仓库根目录 `LICENSE`）。修改与再分发时须遵守许可证要求。
 
 ## 约束
 - 只生成用户自有填空结果；不抓取、不搬运付费 SOP 原文。
