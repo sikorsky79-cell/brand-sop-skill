@@ -39,7 +39,7 @@ python3 generate.py example.json --md -o 品牌策划SOP.md
 
 ## 版权
 
-版权所有 © 2026 拨浪鼓（ORRA）
+许可证中的版权声明见 LICENSE 文件
 
 本项目以 [MIT License](./LICENSE) 发布。衍生作品须保留本版权声明。
 
